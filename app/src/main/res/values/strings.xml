@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">BureauB</string>
+    <string name="button_title_ok">Ok</string>
+    <string name="set_title">Set title</string>
+    <string name="title_placeholder">title...</string>
+    <string name="description_placeholder">description..</string>
+    <string name="title_description">Set description</string>
+    <string name="add_tag">Add tag</string>
+    <string name="apply_tags_title">Apply tags</string>
+    <string name="write_tag_placeholder">write tag..</string>
+    <string name="button_title_next">Next</string>
+    <string name="all_tags">Tagging scope</string>
+    <string name="create_tag">Create Tag</string>
 </resources>
